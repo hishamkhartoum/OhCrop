@@ -186,10 +186,10 @@ public class Game {
 
     private void checkWinLose() {
         if (gold >= 1000) {
-            System.out.println("You won! Your farm is thriving!");
+            System.out.println("You won!");
             gameOver = true;
         } else if (gold <= -15) {
-            System.out.println("You lost! Your farm went bankrupt.");
+            System.out.println("You lost!");
             gameOver = true;
         }
     }
