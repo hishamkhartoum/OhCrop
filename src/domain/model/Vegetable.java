@@ -24,6 +24,8 @@ class Vegetable {
         return preferredSeasons;
     }
 
+
+
     public void setPreferredSeasons(List<String> preferredSeasons) {
         this.preferredSeasons = preferredSeasons;
     }

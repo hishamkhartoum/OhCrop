@@ -12,6 +12,8 @@ public class Game {
     private boolean gameOver = false;
     private int week = 0;
 
+
+
     private final String[] seasons = {"SPRING", "SUMMER", "FALL", "WINTER"};
     private final String[] weathers = {"CLOUDY", "SHINY", "RAINY"};
     private String weather;

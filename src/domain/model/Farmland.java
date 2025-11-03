@@ -19,6 +19,8 @@ class Farmland {
         this.quality = quality;
     }
 
+
+
     public double getQuality() {
         return quality;
     }
